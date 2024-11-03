@@ -1,24 +1,26 @@
-# Bash
-echo What is your Name ?
+#!/bin/bash
+
+echo "What is your name?"
 read name
-echo Hi $name
+echo "Hi, $name"
 sleep 2
-echo I think you're having good day
+echo "I think you're having a good day."
 sleep 1
-echo There is Nothing here
+echo "There is nothing here."
 sleep 2
-echo Are you Still there.
+echo "Are you still there?"
 sleep 2
-echo please get out
+echo "Please get out."
 sleep 2
-echo Your Mobile is Overheating. Please get out.
+echo "Your mobile is overheating. Please get out."
 sleep 3
-echo ok ,your mobile is going to blast
+echo "Ok, your mobile is going to blast."
 sleep 3
-echo 3
+echo "3"
 sleep 1
-echo 2
+echo "2"
 sleep 1
-echo 1
+echo "1"
 sleep 1
-echo <-----Fuck You----->
+echo "<-----Stay safe!----->"
+
